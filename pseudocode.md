@@ -1,6 +1,6 @@
 START: Start the program: Building a snowman
 
-INIT: Create my variables for the program
+INIT: Create my variables for the program <br>
 Snow
 Sticks
 Scarf
