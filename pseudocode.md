@@ -81,12 +81,12 @@
     -buttonLocationY
     <br>
     <br>
-6. **PEBBLESs**
+6. **PEBBLES**
     * Used for the smile
     * Laid in the shape of one parenthesis, with the two higher ends facing 
     * Is laid on front side of top section and pushed in to stick, does not puncture
     <br>
-    **PROPERTIES:**
+    **PROPERTIES:** 
     <br>
     -smileLocation
     <br>
