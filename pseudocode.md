@@ -27,6 +27,7 @@
     <br>
     -snowDensity
     <br>
+    <br>
 2. **STICKS**
     * Used as arms
     * Punctures middle section of snowman without breaking it
@@ -41,6 +42,7 @@
     <br>
     -stickPunctureDistance
     <br>
+    <br>
 3. **SCARF**
     * Long, flat piece of material
     * Wraps around mid-section of the top and middle sections
@@ -51,6 +53,7 @@
     -scarfLength
     <br>
     -scarfLocation
+    <br>
     <br>
 4. **CARROT**
     * Used as a nose
@@ -65,6 +68,7 @@
     <br>
     -carrotPunctureDistance
     <br>
+    <br>
 5. **BUTTONS**
     * Used as eyes
     * Is laid on front side of top section and pushed in to stick, does not puncture
@@ -75,6 +79,7 @@
     -buttonLocationX
     <br>
     -buttonLocationY
+    <br>
     <br>
 6. **PEBBLESs**
     * Used for the smile
@@ -87,6 +92,7 @@
     <br>
     -shirtButtonLocations
     <br>
+    <br>
 7. **HAT**
     * Material with a flat brim and a covering for the head 
     * Lays on the very top of the snowman, right on top of the top section
@@ -95,12 +101,14 @@
     <br>
     -hatLocation
     <br>
-8. **OUTSIDE** 
+    <br>
+8. **OUTSIDE** <br>
     **PROPERTIES:**
     <br>
     -temperature
     <br>
     -ground
+    <br>
 
 ## Functionality: 
 
