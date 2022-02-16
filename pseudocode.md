@@ -1,67 +1,105 @@
-# Robot building a snowman
+# BUILDING A SNOWMAN
 
 ## ABOUT:
 -A snowman is three balls of snow stacked horizontally, starting large at the bottom and smallest at the top.
+<br>
 -Decorated to mimic a person, all decorations are placed on one side of snowman to be seen from a front view. 
+<br>
 -Snow can be packed together with pressure and moisture. 
+<br>
 -Each section starts as a snowball.
+<br>
 -A snowman needs a flat surface to be built on to not fall.
+<br>
 -Snow can melt.
+<br>
 -Some snow is not optimal for building a snowman.
+<br>
 
  ## INIT: Create my variables for the program 
-1. Snow: 
+1. **Snow:** 
     * The material used to make snowman
     * Clumps together with other snow when rolled along the ground in a ball
+    <br>
     *PROPERTIES:*
+    <br>
     -snowAmount
+    <br>
     -snowDensity
-2. Sticks
+    <br>
+2. **Sticks**
     * Used as arms
     * Punctures middle section of snowman without breaking it
     * Angles upward coming out of each side on snowman
     * Does not go all the way through section
+    <br>
     *PROPERTIES:*
+    <br>
     -stickLength
+    <br>
     -stickLocation
+    <br>
     -stickPunctureDistance
-3. Scarf
+    <br>
+3. **Scarf**
     * Long, flat piece of material
     * Wraps around mid-section of the top and middle sections
     * Can break off top section if looped too tight
+    <br>
     *PROPERTIES:*
+    <br>
     -scarfLength
+    <br>
     -scarfLocation
-4. Carrot
+    <br>
+4. **Carrot**
     * Used as a nose
     * Needs to enter top section of snowman without breaking it
     * Punctures flat into the center of the top section, parallel with the ground
+    <br>
     *PROPERTIES:*
+    <br>
     -carrotLocation
+    <br>
     -carrotLength
+    <br>
     -carrotPunctureDistance
-5. Buttons
+    <br>
+5. **Buttons**
     * Used as eyes
     * Is laid on front side of top section and pushed in to stick, does not puncture
     * Above the carrot in a straight line with a 3 inch gap
+    <br>
     *PROPERTIES:*
+    <br>
     -buttonLocationX
+    <br>
     -buttonLocationY
-6. Pebbles
+    <br>
+6. **Pebbles**
     * Used for the smile
     * Laid in the shape of one parenthesis, with the two higher ends facing 
     * Is laid on front side of top section and pushed in to stick, does not puncture
+    <br>
     *PROPERTIES:*
+    <br>
     -smileLocation
+    <br>
     -shirtButtonLocations
-7. Hat
+    <br>
+7. **Hat**
     * Material with a flat brim and a covering for the head 
     * Lays on the very top of the snowman, right on top of the top section
+    <br>
     *PROPERTIES:*
+    <br>
     -hatLocation
-8. Outside 
+    <br>
+8. **Outside** 
     *PROPERTIES:*
+    <br>
     -temperature
+    <br>
     -ground
 
 ## Functionality: 
