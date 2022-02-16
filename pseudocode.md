@@ -17,23 +17,23 @@
 <br>
 
  ## INIT: Create my variables for the program 
-1. **Snow:** 
+1. **SNOW:** 
     * The material used to make snowman
     * Clumps together with other snow when rolled along the ground in a ball
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -snowAmount
     <br>
     -snowDensity
     <br>
-2. **Sticks**
+2. **STICKS**
     * Used as arms
     * Punctures middle section of snowman without breaking it
     * Angles upward coming out of each side on snowman
     * Does not go all the way through section
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -stickLength
     <br>
@@ -41,23 +41,23 @@
     <br>
     -stickPunctureDistance
     <br>
-3. **Scarf**
+3. **SCARF**
     * Long, flat piece of material
     * Wraps around mid-section of the top and middle sections
     * Can break off top section if looped too tight
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -scarfLength
     <br>
     -scarfLocation
     <br>
-4. **Carrot**
+4. **CARROT**
     * Used as a nose
     * Needs to enter top section of snowman without breaking it
     * Punctures flat into the center of the top section, parallel with the ground
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -carrotLocation
     <br>
@@ -65,38 +65,38 @@
     <br>
     -carrotPunctureDistance
     <br>
-5. **Buttons**
+5. **BUTTONS**
     * Used as eyes
     * Is laid on front side of top section and pushed in to stick, does not puncture
     * Above the carrot in a straight line with a 3 inch gap
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -buttonLocationX
     <br>
     -buttonLocationY
     <br>
-6. **Pebbles**
+6. **PEBBLESs**
     * Used for the smile
     * Laid in the shape of one parenthesis, with the two higher ends facing 
     * Is laid on front side of top section and pushed in to stick, does not puncture
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -smileLocation
     <br>
     -shirtButtonLocations
     <br>
-7. **Hat**
+7. **HAT**
     * Material with a flat brim and a covering for the head 
     * Lays on the very top of the snowman, right on top of the top section
     <br>
-    *PROPERTIES:*
+    **PROPERTIES:**
     <br>
     -hatLocation
     <br>
-8. **Outside** 
-    *PROPERTIES:*
+8. **OUTSIDE** 
+    **PROPERTIES:**
     <br>
     -temperature
     <br>
