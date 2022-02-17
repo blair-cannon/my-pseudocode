@@ -214,13 +214,13 @@
      gatherMaterials
      pickSpot
 
-     formSection(bottom, 2)
+     formSection(bottom, 3)
      levelTop(bottom)
-     formSection(middle, 1)
+     formSection(middle, 2)
      stack(middle, bottom)
      glueSections(middle,  bottom)
      levelTop(middle)
-     formSection(top, 0.5)
+     formSection(top, 1)
      stack(top, middle)
      glueSections(top, middle)
 
